@@ -1,0 +1,22 @@
+{
+  "name": "journeye-reliable-file-upload",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Konrad Jurk <konrad.jurk@acrolinx.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "SparkMD5": "^2.0.2",
+    "jquery": "^3.1.0"
+  }
+}
